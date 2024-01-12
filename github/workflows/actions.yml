@@ -1,0 +1,6 @@
+name: this is github actions
+on: [push]
+  jobs:
+       Echo:  
+           runs-on: ubuntu-latest
+           
